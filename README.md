@@ -1,7 +1,7 @@
 Git For Beginners
 ====================
 
-Project made to show how github's repositories work to beginners.
+Project made to show how git and github's repositories work to beginners.
 
 Slides are available within the project.
 
