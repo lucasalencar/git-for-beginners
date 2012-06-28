@@ -7,7 +7,7 @@ Slides are available within the project.
 
 The goal is to introduce young academics in the magic world of version control, using Git and Github to help them work on their projects.
 
-The slides contains:
+The presentation contains:
 * Introduction about version control softwares;
 * Git's instalation on Linux and Windows;
 * Git's basic configurations;
@@ -15,3 +15,5 @@ The slides contains:
 * Working with branches;
 * Workflow on remote repositories;
 * Introduction to github.com.
+
+The presentation were made on Portuguese (Brazil).
