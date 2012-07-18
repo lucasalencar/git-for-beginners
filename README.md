@@ -16,7 +16,7 @@ The presentation contains:
 * Workflow on remote repositories;
 * Introduction to github.com.
 
-The presentation were made on Portuguese (Brazil).
+The presentation was made on Portuguese (Brazil).
 
 
 yo ;)
